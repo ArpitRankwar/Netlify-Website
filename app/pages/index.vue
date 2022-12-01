@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="https://test.wiingy.com/cms/wp-content/uploads/2022/10/Untitled-570-%C3%97-570px.jpg"
         />
       </div>
     </div>
